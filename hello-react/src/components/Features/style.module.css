@@ -1,0 +1,9 @@
+.features {
+     padding: 120px 0;
+}
+.container {
+     display: flex;
+     gap: 64px;
+     margin: 0 auto;
+     width: 1024px;
+}

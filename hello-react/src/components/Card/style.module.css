@@ -1,0 +1,16 @@
+.card {
+
+}
+.cardImg {
+     margin-bottom: 30px;
+}
+.cardTitle {
+     color: var(--dark-blue);
+     font-size: 2rem;
+     letter-spacing: 0.1rem;
+     margin-bottom: 10px;
+}
+.cardText {
+     color: var(--grey);
+     font-size: 1.235rem;
+}
