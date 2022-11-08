@@ -13,3 +13,7 @@ body {
      font-family: 'Open Sans', sans-serif;
      font-size: 18px;
 }
+.container {
+     margin: 0 auto;
+     width: 1024px;
+}

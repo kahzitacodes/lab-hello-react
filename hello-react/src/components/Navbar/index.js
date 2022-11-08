@@ -6,7 +6,7 @@ import icon from "../../assets/menu-top-xs.png"
 export function Navbar() {
      return (
           <header className={styles.header}>
-               <div className={styles.container}>
+               <div className={`container ${styles.container}`}>
                     <div className={styles.headerLogo}>
                          <img src={logo} alt="Ironhack logo" />
                     </div>

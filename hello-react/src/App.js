@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-      <Hero title="Say hello to ReactJS"/>
+      <Hero title="Say hello to ReactJS" btnLabel="Awesome!"/>
       <Features>
         <Card img={icon1} title="Declarative" text="React makes it painless to create interactive UIs."/>
         <Card img={icon2} title="Components" text="Build encapsulated components that manage their state."/>
